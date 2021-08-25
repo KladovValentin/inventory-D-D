@@ -1,0 +1,168 @@
+﻿  Button.cpp
+D:\helpful\c++fun\base _for_inventory\mfp\mfp\Button.h(11,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\helpful\c++fun\base _for_inventory\mfp\mfp\Button.h(11,26): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\helpful\c++fun\base _for_inventory\mfp\mfp\Button.h(21,38): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\helpful\c++fun\base _for_inventory\mfp\mfp\Button.h(21,31): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Source1.cpp
+D:\helpful\c++fun\base _for_inventory\mfp\mfp\Button.h(11,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\helpful\c++fun\base _for_inventory\mfp\mfp\Button.h(11,26): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\helpful\c++fun\base _for_inventory\mfp\mfp\Button.h(21,38): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\helpful\c++fun\base _for_inventory\mfp\mfp\Button.h(21,31): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\helpful\c++fun\base _for_inventory\mfp\mfp\Source1.cpp(95,50): warning C4244: 'argument': conversion from 'size_t' to 'float', possible loss of data
+D:\helpful\c++fun\base _for_inventory\mfp\mfp\Source1.cpp(95,42): warning C4244: 'argument': conversion from 'size_t' to 'float', possible loss of data
+D:\helpful\c++fun\base _for_inventory\mfp\mfp\Source1.cpp(237,64): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\helpful\c++fun\base _for_inventory\mfp\mfp\Source1.cpp(237,57): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\helpful\c++fun\base _for_inventory\mfp\mfp\Source1.cpp(247,77): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\helpful\c++fun\base _for_inventory\mfp\mfp\Source1.cpp(247,70): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\helpful\c++fun\base _for_inventory\mfp\mfp\Source1.cpp(250,70): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\helpful\c++fun\base _for_inventory\mfp\mfp\Source1.cpp(250,63): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\helpful\c++fun\base _for_inventory\mfp\mfp\Source1.cpp(255,71): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\helpful\c++fun\base _for_inventory\mfp\mfp\Source1.cpp(255,64): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\helpful\c++fun\base _for_inventory\mfp\mfp\Source1.cpp(300,64): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\helpful\c++fun\base _for_inventory\mfp\mfp\Source1.cpp(300,57): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\helpful\c++fun\base _for_inventory\mfp\mfp\Source1.cpp(323,64): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\helpful\c++fun\base _for_inventory\mfp\mfp\Source1.cpp(323,57): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\helpful\c++fun\base _for_inventory\mfp\mfp\Source1.cpp(336,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\helpful\c++fun\base _for_inventory\mfp\mfp\Source1.cpp(337,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\helpful\c++fun\base _for_inventory\mfp\mfp\Source1.cpp(338,56): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\helpful\c++fun\base _for_inventory\mfp\mfp\Source1.cpp(338,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\helpful\c++fun\base _for_inventory\mfp\mfp\Source1.cpp(353,61): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\helpful\c++fun\base _for_inventory\mfp\mfp\Source1.cpp(353,54): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+  Generating Code...
+  mfp.vcxproj -> D:\helpful\c++fun\base _for_inventory\mfp\Debug\mfp.exe

@@ -1,0 +1,30 @@
+
+amulet of natural armor + 1
+equipment
+natural ac+1
+10	10	1
+
+belt of incredible dexterity (+2dex)
+equipment
+dexterity +2 
+10	10	1
+
+cloak of resistance
+equipment
++1 to all save throws
+10	10	1
+
+cold iron +2 short sword
+equipment
+damage d8+2+str.mod
+10	10	1
+
+leather armor +1
+equipment
+max dex 6, +3 ac
+20	20	1
+
+ring of protection +1
+equipment
+ac +1
+10	10	1
